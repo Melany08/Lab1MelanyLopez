@@ -1,0 +1,15 @@
+C:\Users\Melany.Lopez\Lab1MelanyLopez\bin\Debug\net6.0\Lab1MelanyLopez.exe
+C:\Users\Melany.Lopez\Lab1MelanyLopez\bin\Debug\net6.0\Lab1MelanyLopez.deps.json
+C:\Users\Melany.Lopez\Lab1MelanyLopez\bin\Debug\net6.0\Lab1MelanyLopez.runtimeconfig.json
+C:\Users\Melany.Lopez\Lab1MelanyLopez\bin\Debug\net6.0\Lab1MelanyLopez.dll
+C:\Users\Melany.Lopez\Lab1MelanyLopez\bin\Debug\net6.0\Lab1MelanyLopez.pdb
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.csproj.AssemblyReference.cache
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.AssemblyInfoInputs.cache
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.AssemblyInfo.cs
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.csproj.CoreCompileInputs.cache
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.dll
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\refint\Lab1MelanyLopez.dll
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.pdb
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\Lab1MelanyLopez.genruntimeconfig.cache
+C:\Users\Melany.Lopez\Lab1MelanyLopez\obj\Debug\net6.0\ref\Lab1MelanyLopez.dll
